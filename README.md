@@ -21,7 +21,7 @@ This project is a simple web page presenting a news portal focused on technology
 
 ```bash
 # Clone this repository
-git clone https://github.com/sillasemanoel/study-news-portal
+git clone https://github.com/sillasemanoel/study-news-portal.git
 
 # Enter the project folder
 cd study-news-portal
